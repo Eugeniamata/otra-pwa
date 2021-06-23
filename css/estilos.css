@@ -7,7 +7,7 @@
 /**	Header */
 header {
     padding: 1em;
-    background-color: #E2F89C;
+    background-color: #E4C5AF;
     color: grey;
 }
 
@@ -159,3 +159,7 @@ nav .nav-item:nth-of-type(1) img[src*=".svg"] {
     width: 40vw;
 }
 
+
+.ajuste {
+    margin: 60px;
+}
